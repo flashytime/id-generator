@@ -5,7 +5,7 @@ ID Generator based on Apc and MySQL which can be used to generate primary key fo
 - Run the composer require command from your terminal:
 
 ```bash
-composer require flashytime/apc-id-generator
+composer require flashytime/id-generator
 ```
 
 - Create a mysql table named 'id_generator' with the `id_generator.sql`:
